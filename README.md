@@ -1,2 +1,2 @@
 # fluffy-dollop
-sera‘s personal algorithm learning notes
+algorithm learning notes
