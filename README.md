@@ -1,2 +1,2 @@
 # fluffy-dollop
-algorithm learning notes
+some thing.
